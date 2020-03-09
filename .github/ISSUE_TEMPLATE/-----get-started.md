@@ -40,5 +40,6 @@ assignees: ''
 ### 备注：
 - [常见问题列表](https://github.com/cg3s/qa/wiki/常见问题列表)
 - [已解决问题列表](https://github.com/cg3s/qa/issues?q=is%3Aissue+is%3Aclosed)
+- [存档-已解决问题列表](https://github.com/cg3s/forums/issues?q=is%3Aissue+is%3Aclosed)
 - 如想立即得到我们的回复，请在我们的工作时间内提交问题（工作日的10:00-17:00），大多数时候我们能保持快速响应，但不排除我们的工作人员在忙其他的事情，如果我们没有及时回应，请耐心等待。
 - 如需上传截图，对敏感信息马赛克后拖拽或拷贝图片到本编辑器中即可。
