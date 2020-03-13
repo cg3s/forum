@@ -1,7 +1,7 @@
 ---
 name: 有问题请点Get Started
 about: 为避免重复问题，提交问题前请按照格式填写
-title: 在此简单描述您的问题（问答区禁止出现本站域名及节点信息，违反立删）
+title: ''
 labels: ''
 assignees: ''
 
